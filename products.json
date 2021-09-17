@@ -1,5 +1,5 @@
 
-  "products": [
+  [
     {
       "name": "Macbook Air M1",
       "price": "28,500,000",
@@ -647,15 +647,5 @@
       "screenCompact": "15.6inch",
       "status": true,
       "linkImg": "https://laptops.vn/uploads/dell-latitude-_5300-2-in-1-black-laptop-tran-phat_1608968057.jpg"
-    }
-  ],
-  "users": [
-    {
-      "userName": "Ninh Đặng",
-      "id": 2002,
-      "password": "2002",
-      "cartProduct": [
-        "MacbookPro13inch2017"
-      ]
     }
   ]
