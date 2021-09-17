@@ -1,4 +1,5 @@
-{
+[
+    {
       "userName": "Ninh Đặng",
       "id": 2002,
       "password": "2002",
@@ -6,3 +7,4 @@
         "MacbookPro13inch2017"
       ]
     }
+  ]
